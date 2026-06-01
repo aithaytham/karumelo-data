@@ -1,0 +1,62 @@
+{
+  "baki": {
+    "openings": {
+      "opening 1": "hnqDdeELZCw"
+    },
+    "title": "Baki"
+  },
+  "ballroom e yokoso": {
+    "openings": {
+      "opening 1": "EefNiVvWAB0"
+    },
+    "title": "Welcome to the Ballroom"
+  },
+  "chihayafuru": {
+    "openings": {
+      "opening 3": "wU10fCyY_fI"
+    },
+    "title": "Chihayafuru"
+  },
+  "free": {
+    "openings": {
+      "opening 1": "R1ALzmLmmz8"
+    },
+    "title": "Free!"
+  },
+  "haikyuu": {
+    "openings": {
+      "opening 1": "XS-N8KfZ5EU",
+      "opening 2": "5cwL3Ml8LEg",
+      "opening 3": "5cwL3Ml8LEg",
+      "opening 4": "c8B14pacww0",
+      "opening 5": "oRAF2-Exzx4",
+      "opening 6": "ve5ROJCWHOM",
+      "opening 7": "RMH6X5VKEuY"
+    },
+    "title": "Haikyuu!!"
+  },
+  "ippo": {
+    "openings": {
+      "opening 1": "F8mOXnWOrhw"
+    },
+    "title": "Hajime no Ippo"
+  },
+  "march comes in like a lion": {
+    "openings": {
+      "opening 1": "cKWqPXkLgzY"
+    },
+    "title": "March Comes in Like a Lion"
+  },
+  "slam dunk": {
+    "openings": {
+      "opening 1": "m_QP5_rdH_g"
+    },
+    "title": "Slam Dunk"
+  },
+  "yuri on ice": {
+    "openings": {
+      "opening 1": "5u3RGhznctE"
+    },
+    "title": "Yuri On Ice"
+  }
+}

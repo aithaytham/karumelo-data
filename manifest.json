@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "files": [
+    "90s.json",
+    "adventure.json",
+    "all_anime.json",
+    "bleu.json",
+    "comedy.json",
+    "drama.json",
+    "fight.json",
+    "jaune.json",
+    "mainstream.json",
+    "noob.json",
+    "oldy.json",
+    "otaku.json",
+    "rapide_blue.json",
+    "rapide_red.json",
+    "rapide_yellow.json",
+    "romance.json",
+    "rouge.json",
+    "seinen.json",
+    "shonenmid.json",
+    "shonenmini.json",
+    "sports.json",
+    "tuto.json"
+  ]
+}
