@@ -1,7 +1,8 @@
 {
   "assassination classroom": {
     "openings": {
-      "opening 3": "u8CGHL4RjbQ"
+      "opening 3": "u8CGHL4RjbQ",
+      "opening 4": "GQ9BiDHtVwU"
     },
     "title": "Assassination Classroom"
   },
@@ -10,19 +11,27 @@
       "opening 1": "StLX4kITjWU",
       "opening 2": "PbWFpzi8C94",
       "opening 3": "CID-sYQNCew",
-      "opening 4": "MWSR17vEVBw"
+      "opening 4": "MWSR17vEVBw",
+      "opening 5": "0dK7JgKivQM",
+      "opening 6": "6TolbTZXDjI",
+      "opening 7": "2S4qGKmzBJE"
     },
     "title": "Attack on Titan"
   },
   "baki": {
     "openings": {
-      "opening 1": "hnqDdeELZCw"
+      "opening 1": "hnqDdeELZCw",
+      "opening 2": "ZlH6jslXpYY",
+      "opening 3": "XxO8zkZPhlo",
+      "opening 4": "UZKLMNtnHtw",
+      "opening 5": "J-jfcYtG9b8",
+      "opening 6": "pozbJUobdJw",
+      "opening 7": "w3z0uivU_AI"
     },
     "title": "Baki"
   },
   "black clover": {
     "openings": {
-      "opening 1": "_6KZI74zKfE",
       "opening 3": "dUiDZJMPh-s"
     },
     "title": "Black Clover"
@@ -203,7 +212,8 @@
   },
   "kekkai sensen": {
     "openings": {
-      "opening 1": "4J8jcI0WtzM"
+      "opening 1": "4J8jcI0WtzM",
+      "opening 2": "_16vOCt-sYk"
     },
     "title": "Blood Blockade Battlefront"
   },
