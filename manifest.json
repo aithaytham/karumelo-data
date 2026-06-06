@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "files": [
     "90s.json",
     "adventure.json",
@@ -21,6 +21,7 @@
     "seinen.json",
     "shonenmid.json",
     "shonenmini.json",
+    "shonenmini2.json",
     "sports.json",
     "tuto.json"
   ]

@@ -16,6 +16,9 @@
   },
   "bakuman": {
     "openings": {
+      "opening 1": "8vMRheOXO_w",
+      "opening 2": "kkEQ58iMmNg",
+      "opening 3": "sPxXhvY2nxA",
       "opening 4": "rzojkxasBNg"
     },
     "title": "Bakuman"
@@ -37,7 +40,8 @@
   },
   "chainsaw man": {
     "openings": {
-      "opening 1": "dFlDRhvM4L0"
+      "opening 1": "dFlDRhvM4L0",
+      "opening 2": "_9aZfsJ-snc"
     },
     "title": "Chainsaw Man"
   },
@@ -115,13 +119,17 @@
   },
   "to your eternity": {
     "openings": {
-      "opening 2": "QAdvDmhE2fg"
+      "opening 1": "2RrkFCw0t90",
+      "opening 2": "QAdvDmhE2fg",
+      "opening 3": "0Ldw59S5B8c"
     },
     "title": "To Your Eternity"
   },
   "vinland saga": {
     "openings": {
-      "opening 2": "c2L6D1-Dif8"
+      "opening 2": "c2L6D1-Dif8",
+      "opening 3": "honOJloqesA",
+      "opening 4": "XbgolbQd92E"
     },
     "title": "Vinland Saga"
   },
@@ -133,7 +141,8 @@
   },
   "your lie in april": {
     "openings": {
-      "opening 1": "fWRPihlt2ho"
+      "opening 1": "fWRPihlt2ho",
+      "opening 2": "wjHz5Lq2cgQ"
     },
     "title": "Your Lie in April"
   }

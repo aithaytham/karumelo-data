@@ -1,4 +1,10 @@
 {
+  "blue lock": {
+    "openings": {
+      "opening 1": "5Iv3Fi8eb7w"
+    },
+    "title": "Blue Lock"
+  },
   "anohana": {
     "openings": {
       "opening 1": "FGFNUSn7awY"
@@ -13,8 +19,10 @@
   },
   "assassination classroom": {
     "openings": {
+      "opening 1": "Tgla0Q88V_Y",
+      "opening 2": "tNZ-6xLUoCA",
       "opening 3": "u8CGHL4RjbQ",
-      "opening 4": "GQ9BiDHtVwU"
+      "opening 4": "Y9JPLPJLrlk"
     },
     "title": "Assassination Classroom"
   },
@@ -32,7 +40,12 @@
   },
   "black clover": {
     "openings": {
-      "opening 3": "dUiDZJMPh-s"
+      "opening 1": "_6KZI74zKfE",
+      "opening 2": "5zSx8QD-fkA",
+      "opening 3": "dUiDZJMPh-s",
+      "opening 4": "rJlvqHht7N8",
+      "opening 5": "14bngq5I5lo",
+      "opening 6": "KVHjGnG10ts"
     },
     "title": "Black Clover"
   },
@@ -44,7 +57,8 @@
   },
   "chainsaw man": {
     "openings": {
-      "opening 1": "dFlDRhvM4L0"
+      "opening 1": "dFlDRhvM4L0",
+      "opening 2": "_9aZfsJ-snc"
     },
     "title": "Chainsaw Man"
   },
@@ -230,13 +244,16 @@
   },
   "vinland saga": {
     "openings": {
-      "opening 2": "c2L6D1-Dif8"
+      "opening 2": "c2L6D1-Dif8",
+      "opening 3": "honOJloqesA",
+      "opening 4": "XbgolbQd92E"
     },
     "title": "Vinland Saga"
   },
   "your lie in april": {
     "openings": {
-      "opening 1": "fWRPihlt2ho"
+      "opening 1": "fWRPihlt2ho",
+      "opening 2": "wjHz5Lq2cgQ"
     },
     "title": "Your Lie in April"
   }

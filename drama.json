@@ -19,13 +19,18 @@
   },
   "assassination classroom": {
     "openings": {
+      "opening 1": "Tgla0Q88V_Y",
+      "opening 2": "tNZ-6xLUoCA",
       "opening 3": "u8CGHL4RjbQ",
-      "opening 4": "GQ9BiDHtVwU"
+      "opening 4": "Y9JPLPJLrlk"
     },
     "title": "Assassination Classroom"
   },
   "bakuman": {
     "openings": {
+      "opening 1": "8vMRheOXO_w",
+      "opening 2": "kkEQ58iMmNg",
+      "opening 3": "sPxXhvY2nxA",
       "opening 4": "rzojkxasBNg"
     },
     "title": "Bakuman"
@@ -188,7 +193,9 @@
   },
   "to your eternity": {
     "openings": {
-      "opening 2": "QAdvDmhE2fg"
+      "opening 1": "2RrkFCw0t90",
+      "opening 2": "QAdvDmhE2fg",
+      "opening 3": "0Ldw59S5B8c"
     },
     "title": "To Your Eternity"
   },
@@ -206,7 +213,8 @@
   },
   "your lie in april": {
     "openings": {
-      "opening 1": "fWRPihlt2ho"
+      "opening 1": "fWRPihlt2ho",
+      "opening 2": "wjHz5Lq2cgQ"
     },
     "title": "Your Lie in April"
   }

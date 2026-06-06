@@ -19,8 +19,10 @@
   },
   "assassination classroom": {
     "openings": {
+      "opening 1": "Tgla0Q88V_Y",
+      "opening 2": "tNZ-6xLUoCA",
       "opening 3": "u8CGHL4RjbQ",
-      "opening 4": "GQ9BiDHtVwU"
+      "opening 4": "Y9JPLPJLrlk"
     },
     "title": "Assassination Classroom"
   },
@@ -38,6 +40,9 @@
   },
   "bakuman": {
     "openings": {
+      "opening 1": "8vMRheOXO_w",
+      "opening 2": "kkEQ58iMmNg",
+      "opening 3": "sPxXhvY2nxA",
       "opening 4": "rzojkxasBNg"
     },
     "title": "Bakuman"
@@ -56,7 +61,8 @@
   },
   "ballroom e yokoso": {
     "openings": {
-      "opening 1": "EefNiVvWAB0"
+      "opening 1": "EefNiVvWAB0",
+      "opening 2": "YKAFlvZaGjI"
     },
     "title": "Welcome to the Ballroom"
   },
@@ -71,7 +77,12 @@
   },
   "black clover": {
     "openings": {
-      "opening 3": "dUiDZJMPh-s"
+      "opening 1": "_6KZI74zKfE",
+      "opening 2": "5zSx8QD-fkA",
+      "opening 3": "dUiDZJMPh-s",
+      "opening 4": "rJlvqHht7N8",
+      "opening 5": "14bngq5I5lo",
+      "opening 6": "KVHjGnG10ts"
     },
     "title": "Black Clover"
   },
@@ -86,6 +97,12 @@
       "opening 3": "gQB5T-tj2H8"
     },
     "title": "Blue Exorcist"
+  },
+  "blue lock": {
+    "openings": {
+      "opening 1": "5Iv3Fi8eb7w"
+    },
+    "title": "Blue Lock"
   },
   "blue period": {
     "openings": {
@@ -114,7 +131,8 @@
   },
   "chainsaw man": {
     "openings": {
-      "opening 1": "dFlDRhvM4L0"
+      "opening 1": "dFlDRhvM4L0",
+      "opening 2": "_9aZfsJ-snc"
     },
     "title": "Chainsaw Man"
   },
@@ -318,7 +336,7 @@
   },
   "haikyuu": {
     "openings": {
-      "opening 1": "XS-N8KfZ5EU",
+      "opening 1": "t9gKKFh-5QU",
       "opening 2": "5cwL3Ml8LEg",
       "opening 3": "5cwL3Ml8LEg",
       "opening 4": "c8B14pacww0",
@@ -408,6 +426,12 @@
       "opening 2": "my4JU0ByLSw"
     },
     "title": "Komi Can't Communicate"
+  },
+  "kuroko no basket": {
+    "openings": {
+      "opening 1": "5RVEM8-UKlg"
+    },
+    "title": "Kuroko no Basket"
   },
   "lucky star": {
     "openings": {
@@ -617,7 +641,7 @@
   },
   "swort art online": {
     "openings": {
-      "opening 1": "1oOBjyOKu2o"
+      "opening 1": "sBzK2Pc3wN0"
     },
     "title": "Sword Art Online"
   },
@@ -635,13 +659,16 @@
   },
   "to your eternity": {
     "openings": {
-      "opening 2": "QAdvDmhE2fg"
+      "opening 1": "2RrkFCw0t90",
+      "opening 2": "QAdvDmhE2fg",
+      "opening 3": "0Ldw59S5B8c"
     },
     "title": "To Your Eternity"
   },
   "tokyo ghoul": {
     "openings": {
-      "opening 1": "7aMOurgDB-o"
+      "opening 1": "7aMOurgDB-o",
+      "opening 2": "qM8wxM_mcRw"
     },
     "title": "Tokyo Ghoul"
   },
@@ -660,7 +687,9 @@
   },
   "vinland saga": {
     "openings": {
-      "opening 2": "c2L6D1-Dif8"
+      "opening 2": "c2L6D1-Dif8",
+      "opening 3": "honOJloqesA",
+      "opening 4": "XbgolbQd92E"
     },
     "title": "Vinland Saga"
   },
@@ -678,7 +707,8 @@
   },
   "your lie in april": {
     "openings": {
-      "opening 1": "fWRPihlt2ho"
+      "opening 1": "fWRPihlt2ho",
+      "opening 2": "wjHz5Lq2cgQ"
     },
     "title": "Your Lie in April"
   },
