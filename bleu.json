@@ -1,4 +1,10 @@
 {
+  "ao haru ride": {
+    "openings": {
+      "opening 1": "6p6CIOtB2AI"
+    },
+    "title": "Blue Spring Ride"
+  },
   "attaque des titans": {
     "openings": {
       "opening 1": "StLX4kITjWU",
@@ -11,12 +17,100 @@
     },
     "title": "Attack on Titan"
   },
+  "baki": {
+    "openings": {
+      "opening 1": "hnqDdeELZCw",
+      "opening 2": "ZlH6jslXpYY",
+      "opening 3": "XxO8zkZPhlo",
+      "opening 4": "UZKLMNtnHtw",
+      "opening 5": "J-jfcYtG9b8",
+      "opening 6": "pozbJUobdJw",
+      "opening 7": "w3z0uivU_AI"
+    },
+    "title": "Baki"
+  },
+  "bakuman": {
+    "openings": {
+      "opening 1": "8vMRheOXO_w",
+      "opening 2": "kkEQ58iMmNg",
+      "opening 3": "sPxXhvY2nxA",
+      "opening 4": "rzojkxasBNg"
+    },
+    "title": "Bakuman"
+  },
+  "black clover": {
+    "openings": {
+      "opening 1": "_6KZI74zKfE",
+      "opening 2": "5zSx8QD-fkA",
+      "opening 3": "dUiDZJMPh-s",
+      "opening 4": "rJlvqHht7N8",
+      "opening 5": "14bngq5I5lo",
+      "opening 6": "KVHjGnG10ts"
+    },
+    "title": "Black Clover"
+  },
+  "blue exorcist": {
+    "openings": {
+      "opening 3": "gQB5T-tj2H8"
+    },
+    "title": "Blue Exorcist"
+  },
+  "blue period": {
+    "openings": {
+      "opening 1": "q0ypHogc6wg"
+    },
+    "title": "Blue Period"
+  },
+  "call of the night": {
+    "openings": {
+      "opening 1": "L96VbQ9ytWk",
+      "opening 2": "l5S0JhqULAU"
+    },
+    "title": "Call of the Night"
+  },
+  "chainsaw man": {
+    "openings": {
+      "opening 1": "dFlDRhvM4L0",
+      "opening 2": "_9aZfsJ-snc"
+    },
+    "title": "Chainsaw Man"
+  },
+  "chihayafuru": {
+    "openings": {
+      "opening 3": "wU10fCyY_fI"
+    },
+    "title": "Chihayafuru"
+  },
+  "code geass": {
+    "openings": {
+      "opening 3": "xh_SoTWBVHU"
+    },
+    "title": "Code Geass"
+  },
   "dandadan": {
     "openings": {
       "opening 1": "a4na2opArGY",
       "opening 2": "z7KIOHFSltg"
     },
     "title": "Dan da dan"
+  },
+  "death parade": {
+    "openings": {
+      "opening 1": "UjjTMNDZi-A"
+    },
+    "title": "Death Parade"
+  },
+  "domestic girlfriend": {
+    "openings": {
+      "opening 1": "0YF8vecQWYs"
+    },
+    "title": "Domestic Girlfriend"
+  },
+  "dragon ball gt": {
+    "openings": {
+      "opening 1": "qfUbqI_q0Ho"
+    },
+    "title": "Dragon Ball GT"
   },
   "dragon ball z": {
     "openings": {
@@ -25,31 +119,77 @@
     },
     "title": "Dragon Ball Z"
   },
-  "demon slayer": {
+  "durarara": {
     "openings": {
-      "opening 1": "pmanD_s7G3U",
-      "opening 2": "XIUDjQ5sVKk",
-      "opening 3": "st4wcpjZeQQ"
+      "opening 2": "_kRj1f3_4V0"
     },
-    "title": "Demon Slayer"
+    "title": "Durarara!!"
   },
-  "haikyuu": {
+  "fate stay night unlimited bladeworks": {
     "openings": {
-      "opening 1": "t9gKKFh-5QU",
-      "opening 2": "5cwL3Ml8LEg",
-      "opening 3": "5cwL3Ml8LEg",
-      "opening 4": "c8B14pacww0",
-      "opening 5": "oRAF2-Exzx4",
-      "opening 6": "ve5ROJCWHOM",
-      "opening 7": "RMH6X5VKEuY"
+      "opening 1": "-2eBVOWLknA"
     },
-    "title": "Haikyuu!!"
+    "title": "Fate/stay night: Unlimited Blade Works"
   },
-  "evangelion": {
+  "fate zero": {
     "openings": {
-      "opening 1": "nU21rCWkuJw"
+      "opening 1": "gCnCFtbY0ZI"
     },
-    "title": "Neon Genesis Evangelion"
+    "title": "Fate/Zero"
+  },
+  "fire force": {
+    "openings": {
+      "opening 2": "t0WClcc-aVs"
+    },
+    "title": "Fire Force"
+  },
+  "free": {
+    "openings": {
+      "opening 1": "R1ALzmLmmz8"
+    },
+    "title": "Free!"
+  },
+  "gangsta": {
+    "openings": {
+      "opening 1": "COBpRXm_CUQ"
+    },
+    "title": "Gangsta"
+  },
+  "guilty crown": {
+    "openings": {
+      "opening 2": "Hv4znGv6lzg"
+    },
+    "title": "Guilty Crown"
+  },
+  "gundam witch mercery": {
+    "openings": {
+      "opening 1": "uqZ9tCxq9Yw"
+    },
+    "title": "Mobile Suit Gundam : witch mercery"
+  },
+  "gurren lagann": {
+    "openings": {
+      "opening 2": "Bs2ey9TngU0"
+    },
+    "title": "Gurren Lagann"
+  },
+  "hyouka": {
+    "openings": {
+      "opening 1": "3tvOowLuKxs"
+    },
+    "title": "Hyouka"
+  },
+  "inuyasha": {
+    "openings": {
+      "opening 1": "uMM-80ORGXg"
+    },
+    "title": "InuYasha"
+  },
+  "ippo": {
+    "openings": {
+      "opening 1": "F8mOXnWOrhw"
+    },
+    "title": "Hajime no Ippo"
   },
   "jojo": {
     "openings": {
@@ -71,6 +211,91 @@
     },
     "title": "Jujutsu Kaisen"
   },
+  "kaguya-sama": {
+    "openings": {
+      "opening 1": "WZof19wk4Ec"
+    },
+    "title": "Kaguya-sama: Love is War"
+  },
+  "katekyo hitman reborn": {
+    "openings": {
+      "opening 5": "7fjXCNTNkRA"
+    },
+    "title": "Katekyo Hitman Reborn!"
+  },
+  "kekkai sensen": {
+    "openings": {
+      "opening 1": "4J8jcI0WtzM",
+      "opening 2": "_16vOCt-sYk"
+    },
+    "title": "Blood Blockade Battlefront"
+  },
+  "kimi no na wa": {
+    "openings": {
+      "opening 1": "lFsg_sDwlak"
+    },
+    "title": "Your Name"
+  },
+  "komi-san": {
+    "openings": {
+      "opening 2": "my4JU0ByLSw"
+    },
+    "title": "Komi Can't Communicate"
+  },
+  "lucky star": {
+    "openings": {
+      "opening 1": "6iseNlvH2_s"
+    },
+    "title": "Lucky Star"
+  },
+  "made in abyss": {
+    "openings": {
+      "opening 1": "EJYKsY0Vcts"
+    },
+    "title": "Made in Abyss"
+  },
+  "magi": {
+    "openings": {
+      "opening 1": "GPKqy_kWCAo"
+    },
+    "title": "Magi"
+  },
+  "march comes in like a lion": {
+    "openings": {
+      "opening 1": "cKWqPXkLgzY"
+    },
+    "title": "March Comes in Like a Lion"
+  },
+  "mashle": {
+    "openings": {
+      "opening 1": "SzOWbrTG_kE"
+    },
+    "title": "Mashle: Magic and Muscles"
+  },
+  "mob psycho 100": {
+    "openings": {
+      "opening 2": "epZaT8B31-g"
+    },
+    "title": "Mob Psycho 100"
+  },
+  "moi, quand je me réincarne en slime": {
+    "openings": {
+      "opening 1": "GhGTc6p8sg0"
+    },
+    "title": "That Time I Got Reincarnated as a Slime"
+  },
+  "mushoku tensei": {
+    "openings": {
+      "opening 1": "QG8UZUahRbI"
+    },
+    "title": "Mushoku Tensei: Jobless Reincarnation"
+  },
+  "my hero academia": {
+    "openings": {
+      "opening 8": "mcXEPBGt__M"
+    },
+    "title": "My Hero Academia"
+  },
   "nana": {
     "openings": {
       "opening 1": "1-3efFGEnr8"
@@ -88,6 +313,18 @@
       "opening 7": "06EjEq_7RJY"
     },
     "title": "Naruto"
+  },
+  "natsume yuujinchou": {
+    "openings": {
+      "opening 1": "_qCo-E3CHT0"
+    },
+    "title": "Natsume Yuujinchou"
+  },
+  "noragami": {
+    "openings": {
+      "opening 1": "gWCnKoEgfP0"
+    },
+    "title": "Noragami"
   },
   "one piece": {
     "openings": {
@@ -120,11 +357,10 @@
     },
     "title": "One Piece"
   },
-  "tokyo ghoul": {
+  "one punch man": {
     "openings": {
-      "opening 1": "7aMOurgDB-o",
-      "opening 2": "qM8wxM_mcRw"
+      "opening 2": "OvgBFgLUyC8"
     },
-    "title": "Tokyo Ghoul"
+    "title": "One Punch Man"
   }
 }

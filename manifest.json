@@ -1,7 +1,8 @@
 {
-  "version": 6,
+  "version": 7,
   "files": [
     "90s.json",
+    "GP.json",
     "adventure.json",
     "all_anime.json",
     "bleu.json",
