@@ -1,0 +1,32 @@
+{
+  "bts": {
+    "title": "BTS",
+    "openings": {
+      "Dynamite": "gdZLi9oWNZg"
+    }
+  },
+  "blackpink": {
+    "title": "BLACKPINK",
+    "openings": {
+      "DDU-DU DDU-DU": "IHNzOHi8sJs"
+    }
+  },
+  "newjeans": {
+    "title": "NewJeans",
+    "openings": {
+      "Hype Boy": "11cta61wi0g"
+    }
+  },
+  "psy": {
+    "title": "PSY",
+    "openings": {
+      "Gangnam Style": "9bZkp7q19f0"
+    }
+  },
+  "twice": {
+    "title": "TWICE",
+    "openings": {
+      "TT": "ePpPVE-GGJw"
+    }
+  }
+}

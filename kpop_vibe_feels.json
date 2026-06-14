@@ -1,0 +1,62 @@
+{
+  "apink": {
+    "title": "Apink",
+    "openings": {
+      "NoNoNo": "wq7ftOZBy0E"
+    }
+  },
+  "blackpink": {
+    "title": "BLACKPINK",
+    "openings": {
+      "DDU-DU DDU-DU": "IHNzOHi8sJs"
+    }
+  },
+  "bts": {
+    "title": "BTS",
+    "openings": {
+      "Dynamite": "gdZLi9oWNZg"
+    }
+  },
+  "got7": {
+    "title": "GOT7",
+    "openings": {
+      "Just Right": "vrdk3IGcau8"
+    }
+  },
+  "iu": {
+    "title": "IU",
+    "openings": {
+      "eight": "TgOu00Mf3kI"
+    }
+  },
+  "jungkook": {
+    "title": "Jungkook",
+    "openings": {
+      "Seven": "QU9c0053UAU"
+    }
+  },
+  "mamamoo": {
+    "title": "MAMAMOO",
+    "openings": {
+      "HIP": "KhTeiaCezwM"
+    }
+  },
+  "red_velvet": {
+    "title": "Red Velvet",
+    "openings": {
+      "Psycho": "uR8Mrt1IpXg"
+    }
+  },
+  "twice": {
+    "title": "TWICE",
+    "openings": {
+      "TT": "ePpPVE-GGJw"
+    }
+  },
+  "txt": {
+    "title": "TXT",
+    "openings": {
+      "Crown": "W3iSnJ663II"
+    }
+  }
+}
