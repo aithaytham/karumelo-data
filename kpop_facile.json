@@ -2,7 +2,19 @@
   "aespa": {
     "title": "aespa",
     "openings": {
-      "Next Level": "4TWR90KJl84"
+      "Next Level": "4TWR90KJl84",
+      "Drama": "D8VEhcPeSlc",
+      "Whiplash": "jWQx2f-CErU",
+      "Supernova": "phuiiNCxRMg",
+      "Spicy": "Os_heh8vPfs",
+      "Armageddon": "nFYwcndNuOY",
+      "Dirty Work": "M2WTUoy4y6E",
+      "SUGAR HONEY ICE TEA": "naoGk-Zjc1s",
+      "LEMONADE": "p4ahGSFTY-c",
+      "'WDA '": "iTJSbJtS8MU",
+      "ICONIC BY MISTAKE": "27C4pfRsf9g",
+      "VIRAL": "zGsj0fDHB_s",
+      "Rich Man": "vkLpkQV8v4w"
     }
   },
   "bigbang": {
@@ -71,6 +83,12 @@
       "HIP": "KhTeiaCezwM"
     }
   },
+  "nct_127": {
+    "title": "NCT 127",
+    "openings": {
+      "Kick It": "2OvyA2__Eas"
+    }
+  },
   "nct_dream": {
     "title": "NCT Dream",
     "openings": {
@@ -123,6 +141,13 @@
     "title": "TXT",
     "openings": {
       "Crown": "W3iSnJ663II"
+    }
+  },
+  "katseye": {
+    "title": "KATSEYE",
+    "openings": {
+      "Touch": "l9CZykYZkOQ",
+      "Gnarly": "vw1I1eBISBk"
     }
   }
 }

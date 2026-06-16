@@ -5,12 +5,6 @@
       "NoNoNo": "wq7ftOZBy0E"
     }
   },
-  "got7": {
-    "title": "GOT7",
-    "openings": {
-      "Just Right": "vrdk3IGcau8"
-    }
-  },
   "illit": {
     "title": "ILLIT",
     "openings": {
@@ -27,6 +21,12 @@
     "title": "NewJeans",
     "openings": {
       "Hype Boy": "11cta61wi0g"
+    }
+  },
+  "pentagon": {
+    "title": "PENTAGON",
+    "openings": {
+      "Shine": "4vOB7nrYlnc"
     }
   },
   "psy": {
@@ -63,6 +63,19 @@
     "title": "Wanna One",
     "openings": {
       "Energetic": "6eEZ7DJMzuk"
+    }
+  },
+  "zico": {
+    "title": "Zico",
+    "openings": {
+      "Any Song": "UuV2BmJ1p_I"
+    }
+  },
+  "katseye": {
+    "title": "KATSEYE",
+    "openings": {
+      "Touch": "l9CZykYZkOQ",
+      "Gnarly": "vw1I1eBISBk"
     }
   }
 }

@@ -2,7 +2,19 @@
   "bibi": {
     "title": "BIBI",
     "openings": {
-      "BIBI Vengeance": "v5eQhk_S6k4"
+      "Vengeance": "QfIY1r0_tRI",
+      "Hongdae R&B": "R-82VSIivKc",
+      "Bam Yang Gang": "smdmEhkIRVc",
+      "Derre": "m6N6jOt7heY",
+      "KAZINO": "ObzvA8tx9aA",
+      "Amigos": "Onq7Njnlug4",
+      "Animal Farm": "hVLRky1hGfk",
+      "NABI": "I3uzROnFGnA",
+      "Life is a Bi...": "n-S9bbeBlIA",
+      "Sugar Rush": "O_B-0iPCbaU",
+      "Restless": "se4Xsgb0qGk",
+      "BUMPA": "VoTuH7UHWLI",
+      "JOTTO": "abj6f7IAtvE"
     }
   },
   "dpr_ian": {
@@ -23,16 +35,10 @@
       "HERO": "FZ9lJ5ctd0s"
     }
   },
-  "nct_127": {
-    "title": "NCT 127",
-    "openings": {
-      "Kick It": "2OvyA2__Eas"
-    }
-  },
   "nmixx": {
     "title": "NMIXX",
     "openings": {
-      "O.O": "3GWscde8rM8"
+      "Blue Valentine": "EmeW6li6bbo"
     }
   },
   "pentagon": {
@@ -50,13 +56,20 @@
   "woodz": {
     "title": "WOODZ",
     "openings": {
-      "Love Me Harder": "jLTa3B9C2c0"
+      "Drowning": "YWJZfyxz-b0"
     }
   },
   "zico": {
     "title": "Zico",
     "openings": {
       "Any Song": "UuV2BmJ1p_I"
+    }
+  },
+  "b_i": {
+    "title": "B.I",
+    "openings": {
+      "BTBT": "ygJgQAYZVi0",
+      "illa illa": "5GaVA3ebKCo"
     }
   }
 }
