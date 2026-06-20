@@ -55,19 +55,25 @@
   },
   "clannad": {
     "openings": {
+      "opening 1": "YFYBgx80Fic",
       "opening 2": "PozVlhR20TE"
     },
     "title": "Clannad"
   },
   "code geass": {
     "openings": {
-      "opening 3": "xh_SoTWBVHU"
+      "opening 1": "ny3Mh1fojl0",
+      "opening 2": "0-Tivlwd6eY",
+      "opening 3": "xh_SoTWBVHU",
+      "opening 4": "Mrgcz2JKCTc",
+      "opening 5": "mvFWDUhzrSo"
     },
     "title": "Code Geass"
   },
   "death note": {
     "openings": {
-      "opening 1": "KdGOV8FX6F4"
+      "opening 1": "KdGOV8FX6F4",
+      "opening 2": "BTevuW9xeuE"
     },
     "title": "Death Note"
   },
@@ -79,7 +85,9 @@
   },
   "demon slayer": {
     "openings": {
-      "opening 2": "XIUDjQ5sVKk"
+      "opening 2": "XIUDjQ5sVKk",
+      "opening 4": "AbpcZx7OC9o",
+      "opening 5": "WRrZr6k7ZSU"
     },
     "title": "Demon Slayer"
   },
@@ -157,7 +165,9 @@
   },
   "oshi no ko": {
     "openings": {
-      "opening 1": "ZYlaUrj2Zkk"
+      "opening 1": "ZYlaUrj2Zkk",
+      "opening 2": "PAcf55v6zqQ",
+      "opening 3": "QgIQbeRzkkc"
     },
     "title": "Oshi no Ko"
   },
