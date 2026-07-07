@@ -39,19 +39,27 @@
   },
   "fma": {
     "openings": {
-      "opening 2": "elyXcwunIYA"
+      "opening 1": "elyXcwunIYA",
+      "opening 2": "bMHCFtKMkAk",
+      "opening 3": "vrC_cmEAjjI",
+      "opening 4": "I9nk4Gwu2eg",
+      "opening 5": "Vn3N9fhVCwM"
     },
     "title": "Fullmetal Alchemist: Brotherhood"
   },
   "gintama": {
     "openings": {
       "opening 1": "OQYcEEkG_V0",
-      "opening 2": "TyYG_qOFx0k"
+      "opening 2": "TyYG_qOFx0k",
+      "opening 3": "u1dBplZJXls",
+      "opening 4": "sQw32oee4mc",
+      "opening 5": "yt872ZGXJe0"
     },
     "title": "Gintama"
   },
   "great teacher onizuka": {
     "openings": {
+      "opening 1": "NP2qIy9AB9Q",
       "opening 2": "xpAg0spgFJA"
     },
     "title": "Great Teacher Onizuka"
@@ -64,13 +72,23 @@
   },
   "inuyasha": {
     "openings": {
-      "opening 1": "uMM-80ORGXg"
+      "opening 1": "uMM-80ORGXg",
+      "opening 2": "jI--lLUQtvo",
+      "opening 3": "RcaKUapRZik",
+      "opening 4": "whK-_xLAzHA",
+      "opening 5": "Qt7g0zmobwQ",
+      "opening 6": "C2d7lUDL8qQ",
+      "opening 7": "BJK3qB06QaU"
     },
     "title": "InuYasha"
   },
   "ippo": {
     "openings": {
-      "opening 1": "F8mOXnWOrhw"
+      "opening 1": "F8mOXnWOrhw",
+      "opening 2": "zOwEikGibUc",
+      "opening 3": "7k-b_rTtPig",
+      "opening 4": "u7pw9QSSIp8",
+      "opening 5": "GfwHsqOOTpc"
     },
     "title": "Hajime no Ippo"
   },
@@ -81,13 +99,23 @@
       "opening 3": "it4koqzOwb0",
       "opening 4": "BPyQM7FmG8g",
       "opening 5": "qlaRFRA4qFU",
-      "opening 6": "aCmJCQfINVU"
+      "opening 6": "aCmJCQfINVU",
+      "opening 7": "T4dUEFxRBL0",
+      "opening 8": "xgWr4cKD4AU",
+      "opening 9": "kbjr3JIuOtY"
     },
     "title": "JoJo's Bizarre Adventure"
   },
   "katekyo hitman reborn": {
     "openings": {
-      "opening 5": "7fjXCNTNkRA"
+      "opening 1": "WIOL2PlJB8M",
+      "opening 2": "w3nb7mWuSBM",
+      "opening 3": "saI-2xEXLOY",
+      "opening 4": "WQ0_-vlj8PY",
+      "opening 5": "7fjXCNTNkRA",
+      "opening 6": "RLCWMxr1-jY",
+      "opening 7": "CwlSwUObS8Y",
+      "opening 8": "I8uwTNmglrQ"
     },
     "title": "Katekyo Hitman Reborn!"
   },
@@ -107,7 +135,7 @@
     "openings": {
       "opening 1": "YoeP9w5UIlg",
       "opening 2": "eiaca1Oy9m8",
-      "opening 3": "v7wuNqevnF0",
+      "opening 3": "AwnT23djebo",
       "opening 4": "TApFCt9m0ug",
       "opening 5": "djxYqdaVjzs",
       "opening 6": "Tyr7Ymbtl2Y",
@@ -136,6 +164,7 @@
   },
   "pokemon": {
     "openings": {
+      "opening 1": "6xKWiCMKKJg",
       "opening 3": "9F3gV49nUbg"
     },
     "title": "Pokemon"

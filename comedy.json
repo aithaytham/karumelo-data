@@ -28,7 +28,12 @@
   },
   "food wars": {
     "openings": {
-      "opening 4": "KxC5YodP50M"
+      "opening 2": "vm6R8MgqR9A",
+      "opening 3": "dWlBTmKhZVo",
+      "opening 4": "KxC5YodP50M",
+      "opening 5": "RG36jRZwAP4",
+      "opening 6": "G_ZLpStlorE",
+      "opening 7": "k1_djjTVwwY"
     },
     "title": "Food Wars!"
   },
@@ -42,7 +47,7 @@
     "openings": {
       "opening 1": "t9gKKFh-5QU",
       "opening 2": "5cwL3Ml8LEg",
-      "opening 3": "5cwL3Ml8LEg",
+      "opening 3": "PdV1YtlwmZU",
       "opening 4": "c8B14pacww0",
       "opening 5": "oRAF2-Exzx4",
       "opening 6": "ve5ROJCWHOM",
@@ -77,6 +82,7 @@
   },
   "komi-san": {
     "openings": {
+      "opening 1": "ZRf6b3JbJDk",
       "opening 2": "my4JU0ByLSw"
     },
     "title": "Komi Can't Communicate"
@@ -96,7 +102,9 @@
   },
   "mob psycho 100": {
     "openings": {
-      "opening 2": "epZaT8B31-g"
+      "opening 1": "pUdaXUUDUew",
+      "opening 2": "epZaT8B31-g",
+      "opening 3": "oLALHbB3iXU"
     },
     "title": "Mob Psycho 100"
   },
@@ -114,7 +122,9 @@
   },
   "one punch man": {
     "openings": {
-      "opening 2": "OvgBFgLUyC8"
+      "opening 1": "atxYe-nOa9w",
+      "opening 2": "OvgBFgLUyC8",
+      "opening 3": "6qI-a3YXEPc"
     },
     "title": "One Punch Man"
   },
@@ -144,7 +154,10 @@
   },
   "spy x family": {
     "openings": {
-      "opening 2": "Hlw8dTz_iq0"
+      "opening 1": "U_rWZK_8vUY",
+      "opening 2": "Hlw8dTz_iq0",
+      "opening 3": "JqUsUe6B43g",
+      "opening 4": "PcmmU4aEQu0"
     },
     "title": "Spy x Family"
   },

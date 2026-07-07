@@ -58,30 +58,44 @@
   },
   "fate stay night unlimited bladeworks": {
     "openings": {
-      "opening 1": "-2eBVOWLknA"
+      "opening 1": "-2eBVOWLknA",
+      "opening 2": "K8alawSMh0Y"
     },
     "title": "Fate/stay night: Unlimited Blade Works"
   },
   "fma": {
     "openings": {
-      "opening 2": "elyXcwunIYA"
+      "opening 1": "elyXcwunIYA",
+      "opening 2": "bMHCFtKMkAk",
+      "opening 3": "vrC_cmEAjjI",
+      "opening 4": "I9nk4Gwu2eg",
+      "opening 5": "Vn3N9fhVCwM"
     },
     "title": "Fullmetal Alchemist: Brotherhood"
   },
   "food wars": {
     "openings": {
-      "opening 1": "vV3l_1j8pPE"
+      "opening 1": "Fh6bTCZGDuo",
+      "opening 2": "vm6R8MgqR9A",
+      "opening 3": "dWlBTmKhZVo",
+      "opening 5": "RG36jRZwAP4",
+      "opening 6": "G_ZLpStlorE",
+      "opening 7": "k1_djjTVwwY"
     },
     "title": "Food Wars!"
   },
   "fruits basket": {
     "openings": {
-      "opening 2": "5HgYN_S-qus"
+      "opening 2": "5HgYN_S-qus",
+      "opening 3": "eYp9d72g0CI",
+      "opening 4": "ik0GKdDJgH0",
+      "opening 5": "vVK7vO5hN34"
     },
     "title": "Fruits Basket"
   },
   "great teacher onizuka": {
     "openings": {
+      "opening 1": "NP2qIy9AB9Q",
       "opening 2": "xpAg0spgFJA"
     },
     "title": "Great Teacher Onizuka"
@@ -100,6 +114,7 @@
   },
   "komi-san": {
     "openings": {
+      "opening 1": "ZRf6b3JbJDk",
       "opening 2": "my4JU0ByLSw"
     },
     "title": "Komi Can't Communicate"
@@ -142,7 +157,10 @@
   },
   "spy x family": {
     "openings": {
-      "opening 2": "Hlw8dTz_iq0"
+      "opening 1": "U_rWZK_8vUY",
+      "opening 2": "Hlw8dTz_iq0",
+      "opening 3": "JqUsUe6B43g",
+      "opening 4": "PcmmU4aEQu0"
     },
     "title": "Spy x Family"
   },

@@ -105,19 +105,25 @@
   },
   "frieren": {
     "openings": {
+      "opening 1": "QoGM9hCxr4k",
       "opening 2": "wfmYSuPiYEQ"
     },
     "title": "Frieren: Beyond Journey's End"
   },
   "fruits basket": {
     "openings": {
-      "opening 1": "EwK76JcC270"
+      "opening 1": "EwK76JcC270",
+      "opening 3": "eYp9d72g0CI",
+      "opening 4": "ik0GKdDJgH0",
+      "opening 5": "vVK7vO5hN34"
     },
     "title": "Fruits Basket"
   },
   "guilty crown": {
     "openings": {
-      "opening 2": "Hv4znGv6lzg"
+      "opening 1": "9HUNqFs5YOs",
+      "opening 2": "Hv4znGv6lzg",
+      "opening 3": "Grfag9g3nu4"
     },
     "title": "Guilty Crown"
   },
@@ -129,13 +135,15 @@
   },
   "hells paradise": {
     "openings": {
-      "opening 1": "04WuoQMhhxw"
+      "opening 1": "04WuoQMhhxw",
+      "opening 2": "3zgow3WAYs8"
     },
     "title": "Hell's Paradise"
   },
   "made in abyss": {
     "openings": {
-      "opening 1": "EJYKsY0Vcts"
+      "opening 1": "EJYKsY0Vcts",
+      "opening 2": "4QFe2FH13wE"
     },
     "title": "Made in Abyss"
   },

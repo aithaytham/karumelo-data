@@ -1,7 +1,13 @@
 {
   "kuroko no basket": {
     "openings": {
-      "opening 1": "5RVEM8-UKlg"
+      "opening 1": "5RVEM8-UKlg",
+      "opening 2": "q-5coroEET8",
+      "opening 3": "m_eZs7Ix9-s",
+      "opening 4": "wG5xLhfuT4g",
+      "opening 5": "WrzpLdU7eWU",
+      "opening 6": "833F3rQr9lg",
+      "opening 7": "bv6Sb6icss0"
     },
     "title": "Kuroko no Basket"
   },
@@ -86,13 +92,22 @@
   },
   "fire force": {
     "openings": {
-      "opening 2": "t0WClcc-aVs"
+      "opening 1": "JBqxVX_LXvk",
+      "opening 2": "t0WClcc-aVs",
+      "opening 3": "QmMRGuJT0eg",
+      "opening 4": "ZfFmJVHeQkY",
+      "opening 5": "4ep0CvDan14",
+      "opening 6": "cJf37Wi8k0w"
     },
     "title": "Fire Force"
   },
   "fma": {
     "openings": {
-      "opening 2": "elyXcwunIYA"
+      "opening 1": "elyXcwunIYA",
+      "opening 2": "bMHCFtKMkAk",
+      "opening 3": "vrC_cmEAjjI",
+      "opening 4": "I9nk4Gwu2eg",
+      "opening 5": "Vn3N9fhVCwM"
     },
     "title": "Fullmetal Alchemist: Brotherhood"
   },
@@ -104,12 +119,14 @@
   },
   "frieren": {
     "openings": {
+      "opening 1": "QoGM9hCxr4k",
       "opening 2": "wfmYSuPiYEQ"
     },
     "title": "Frieren: Beyond Journey's End"
   },
   "great teacher onizuka": {
     "openings": {
+      "opening 1": "NP2qIy9AB9Q",
       "opening 2": "xpAg0spgFJA"
     },
     "title": "Great Teacher Onizuka"
@@ -118,7 +135,7 @@
     "openings": {
       "opening 1": "t9gKKFh-5QU",
       "opening 2": "5cwL3Ml8LEg",
-      "opening 3": "5cwL3Ml8LEg",
+      "opening 3": "PdV1YtlwmZU",
       "opening 4": "c8B14pacww0",
       "opening 5": "oRAF2-Exzx4",
       "opening 6": "ve5ROJCWHOM",
@@ -134,7 +151,13 @@
   },
   "inuyasha": {
     "openings": {
-      "opening 1": "uMM-80ORGXg"
+      "opening 1": "uMM-80ORGXg",
+      "opening 2": "jI--lLUQtvo",
+      "opening 3": "RcaKUapRZik",
+      "opening 4": "whK-_xLAzHA",
+      "opening 5": "Qt7g0zmobwQ",
+      "opening 6": "C2d7lUDL8qQ",
+      "opening 7": "BJK3qB06QaU"
     },
     "title": "InuYasha"
   },
@@ -145,7 +168,10 @@
       "opening 3": "it4koqzOwb0",
       "opening 4": "BPyQM7FmG8g",
       "opening 5": "qlaRFRA4qFU",
-      "opening 6": "aCmJCQfINVU"
+      "opening 6": "aCmJCQfINVU",
+      "opening 7": "T4dUEFxRBL0",
+      "opening 8": "xgWr4cKD4AU",
+      "opening 9": "kbjr3JIuOtY"
     },
     "title": "JoJo's Bizarre Adventure"
   },
@@ -199,7 +225,7 @@
     "openings": {
       "opening 1": "YoeP9w5UIlg",
       "opening 2": "eiaca1Oy9m8",
-      "opening 3": "v7wuNqevnF0",
+      "opening 3": "AwnT23djebo",
       "opening 4": "TApFCt9m0ug",
       "opening 5": "djxYqdaVjzs",
       "opening 6": "Tyr7Ymbtl2Y",
@@ -228,12 +254,15 @@
   },
   "one punch man": {
     "openings": {
-      "opening 2": "OvgBFgLUyC8"
+      "opening 1": "atxYe-nOa9w",
+      "opening 2": "OvgBFgLUyC8",
+      "opening 3": "6qI-a3YXEPc"
     },
     "title": "One Punch Man"
   },
   "pokemon": {
     "openings": {
+      "opening 1": "6xKWiCMKKJg",
       "opening 3": "9F3gV49nUbg"
     },
     "title": "Pokemon"
