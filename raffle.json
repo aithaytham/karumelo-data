@@ -4,6 +4,6 @@
   "title": "Cadeau de remerciement",
   "body": "Pour vous remercier d'avoir soutenu Karu Melo pour son lancement à la Japan Expo, remplissez vos infos : une personne sera tirée au sort et recevra un cadeau !",
   "consent": "J'accepte que mes coordonnées soient utilisées uniquement pour ce tirage au sort.",
-  "endpoint": "https://script.google.com/macros/s/REMPLACE_MOI/exec",
+  "endpoint": "https://script.google.com/macros/s/AKfycbzQXYcYZ6GsR3vBs-jrhPM727Ybzdpxs6dJSjchUQC2egU1qbQ-eZkwo8LhRwnBb_lvBQ/exec",
   "dismissible": false
 }
