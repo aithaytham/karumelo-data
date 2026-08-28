@@ -1,0 +1,81 @@
+{
+  "pokemon": {
+    "title": "Pokémon",
+    "openings": {
+      "opening 1": "MCU3Bya2v9A"
+    }
+  },
+  "tiger_mask": {
+    "title": "Tiger Mask",
+    "openings": {
+      "opening 1": "LRbye-zpmks"
+    }
+  },
+  "hokuto_no_ken": {
+    "title": "Hokuto no Ken",
+    "openings": {
+      "opening 1": "l9Y3LQ5mYnA"
+    }
+  },
+  "ranma_half": {
+    "title": "Ranma ½",
+    "openings": {
+      "opening 1": "gJpMyls9_6Y"
+    }
+  },
+  "ufo_robot_grendizer": {
+    "title": "UFO Robot Grendizer",
+    "openings": {
+      "opening 1": "4KIk8h9xNL8"
+    }
+  },
+  "dragon_ball": {
+    "title": "Dragon Ball",
+    "openings": {
+      "opening 1": "Ad5KfP3r1lE"
+    }
+  },
+  "sangokushi": {
+    "title": "Sangokushi",
+    "openings": {
+      "opening 1": "LcygkuMe7YI"
+    }
+  },
+  "virtua_fighter": {
+    "title": "Virtua Fighter",
+    "openings": {
+      "opening 1": "pcrSBmF9zh4"
+    }
+  },
+  "beyblade": {
+    "title": "Beyblade",
+    "openings": {
+      "opening 1": "u8eT0bblzzw",
+      "opening 2": "nCYjNpE9FqY"
+    }
+  },
+  "dice": {
+    "title": "DICE",
+    "openings": {
+      "opening 1": "_v0vNd6A5Y4"
+    }
+  },
+  "blazing_teens": {
+    "title": "Blazing Teens",
+    "openings": {
+      "opening 1": "k1upRyUhXKI"
+    }
+  },
+  "shin_hakkenden": {
+    "title": "Shin Hakkenden",
+    "openings": {
+      "opening 1": "NlBefQp8arI"
+    }
+  },
+  "monster_rancher": {
+    "title": "Monster Rancher",
+    "openings": {
+      "opening 1": "EMGjiPvo89I"
+    }
+  }
+}

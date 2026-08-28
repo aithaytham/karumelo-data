@@ -1,0 +1,38 @@
+{
+  "detective_conan": {
+    "title": "Detective Conan",
+    "openings": {
+      "opening 1": "RL2ObWV8pnI"
+    }
+  },
+  "captain_tsubasa": {
+    "title": "Captain Tsubasa",
+    "openings": {
+      "opening 1": "l0ibozG6mL0"
+    }
+  },
+  "pokemon": {
+    "title": "Pokémon",
+    "openings": {
+      "opening 1": "MCU3Bya2v9A"
+    }
+  },
+  "doraemon": {
+    "title": "Doraemon",
+    "openings": {
+      "opening 1": "xEDbTPhYfsY"
+    }
+  },
+  "dragon_ball": {
+    "title": "Dragon Ball",
+    "openings": {
+      "opening 1": "Ad5KfP3r1lE"
+    }
+  },
+  "hamtaro": {
+    "title": "Hamtaro",
+    "openings": {
+      "opening 1": "PsoY3Xa3Wz0"
+    }
+  }
+}
