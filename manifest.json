@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "files": [
     "90s.json",
     "GP.json",
@@ -19,7 +19,6 @@
     "arabic_theme_fight.json",
     "arabic_theme_romance.json",
     "arabic_theme_sports.json",
-    "arabic_tuto.json",
     "bleu.json",
     "comedy.json",
     "drama.json",
